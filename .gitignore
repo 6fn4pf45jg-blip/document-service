@@ -15,3 +15,14 @@ storage/pending_edits/
 *.log
 .pytest_cache/
 .mypy_cache/
+
+# Local vector database
+qdrant_storage/
+
+# Test documents
+test_*.docx
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
