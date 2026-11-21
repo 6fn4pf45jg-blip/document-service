@@ -1,0 +1,17 @@
+.venv/
+.venv311/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+.DS_Store
+.idea/
+.vscode/
+.cursor/
+storage/uploads/
+storage/pending_edits/
+*.log
+.pytest_cache/
+.mypy_cache/
